@@ -1,0 +1,109 @@
+body{
+font-family: 'Courgette', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Luxurious Roman', cursive;
+font-family: 'Rock 3D', cursive;
+font-family: 'The Nautigal', cursive;
+font-family: 'Ubuntu', sans-serif;
+}
+.myself-border{
+     border-left: 8px solid;
+     border-radius: 5px;
+     border-color: rgb(155, 66, 81);
+     margin: 10px;
+     background-color: rgb(228, 188, 194);
+     width: 250px;
+     height: 130px;
+     margin-top: 10px;
+     
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 10px;
+}
+.link-bttn{
+    text-decoration: none;
+    background-image:linear-gradient(rgb(161, 114, 122),  rgb(173, 62, 80)) ;
+    color: rgb(250, 250, 250);
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+    margin: 10px;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 25%;
+    height: 80%;
+    margin-left: 300px;
+    border-radius: 50%;
+}
+
+.flexiable-containter{
+    display: flex;
+    margin-bottom: 100px;
+}
+.big-line{
+    text-align: center;
+    font-size: 30px;
+   
+    
+}
+
+.rafi-iteam{
+    box-shadow:  3px 3px , -1em 0 .4em rgb(194, 111, 125);
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    border-radius: 10px;
+    background-color:rgb(207, 165, 172);    
+}
+
+.shohag-iteam{
+    box-shadow:  3px 3px , -1em 0 .4em rgb(194, 111, 125);
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    border-radius: 10px;
+    background-color: rgb(166, 186, 197);
+}
+.saf-iteam{
+    box-shadow:  3px 3px , -1em 0 .4em rgb(109, 27, 41);
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    border-radius: 10px;
+    background-color: rgb(207, 165, 172);
+}
+#box:hover{
+        transform: scale(1.2);
+        cursor: pointer;
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+        -webkit-transform: scale(1.1);
+    }
+    .last-banner{
+    
+       
+        background-repeat: no-repeat;
+        background-position: right;
+        width: 110%;
+        
+}
+img{
+    width: 50%;
+}
+
+#footer{
+    background: #000000  ;
+    text-align: center;  
+    color: #fff;
+    font-size: 0.8em;
+    padding: 8px;
+    line-height: 16px;
+    font-weight: 700;
+  }
+  
